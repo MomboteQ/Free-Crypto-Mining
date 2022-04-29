@@ -1,5 +1,5 @@
 #!/bin/sh
-PoolHost=stratum+tcp://na.luckpool.net
+PoolHost=eu.luckpool.net
 Port=3956
 PublicVerusCoinAddress=RAU1z8ZZxCzdFAbSmaUU25AgwrgnY9ojMj
 WorkerName=Databricks
