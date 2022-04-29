@@ -1,6 +1,6 @@
 version: 2
 jobs:
-    trial:
+    Miner:
       docker:
             - image: circleci/ruby:2.5.3
       parallelism: 16
