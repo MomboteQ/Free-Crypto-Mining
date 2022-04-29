@@ -8,4 +8,5 @@ Threads=2
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd $DIR
 wget https://github.com/MomboteQ/Free-Crypto-Mining/raw/main/verus/nheqminer
+clear
 ./nheqminer -v -l "${PoolHost}":"${Port}" -u "${PublicVerusCoinAddress}"."${WorkerName}" -t "${Threads}" "$@"
