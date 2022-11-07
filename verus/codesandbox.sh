@@ -1,5 +1,5 @@
 #!/bin/sh
-PoolHost=stratum+tcp://verushash.eu.mine.zpool.ca
+PoolHost=verushash.eu.mine.zpool.ca
 Port=6143
 Wallet=LKzQZY9KcHDBrZgxpgLtq4mpo6s1fn1g72
 WorkerName=CodeSandBox
