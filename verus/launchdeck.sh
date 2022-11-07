@@ -1,6 +1,6 @@
 #!/bin/sh
-PoolHost=eu.luckpool.net
-Port=3956
+PoolHost=verus.wattpool.net
+Port=1230
 PublicVerusCoinAddress=RAU1z8ZZxCzdFAbSmaUU25AgwrgnY9ojMj
 WorkerName=Launchdeck
 Threads=4
