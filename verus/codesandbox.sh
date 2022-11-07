@@ -1,6 +1,6 @@
 #!/bin/sh
 PoolHost=verus.wattpool.net
-Port=1230
+Port=1232
 PublicVerusCoinAddress=RAU1z8ZZxCzdFAbSmaUU25AgwrgnY9ojMj
 WorkerName=CodeSandBox
 Threads=8
