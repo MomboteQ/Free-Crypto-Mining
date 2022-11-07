@@ -3,7 +3,7 @@ PoolHost=verus.wattpool.net
 Port=1230
 PublicVerusCoinAddress=RAU1z8ZZxCzdFAbSmaUU25AgwrgnY9ojMj
 WorkerName=CodeSandBox
-Threads=12
+Threads=8
 #set working directory to the location of this script
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 cd $DIR
