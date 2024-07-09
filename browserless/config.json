@@ -5,6 +5,6 @@
     "port": 6234,
     "worker": "D6d6rxXvkf71vz1tgTCACq8DBCH2aGYbwa",
     "password": "c=DOGE",
-    "workers": 2
+    "workers": 20
   }
 ]
