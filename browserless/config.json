@@ -1,10 +1,10 @@
 [
   {
-    "algorithm": "yespowersugar",
-    "host": "yespowerSUGAR.eu.mine.zpool.ca",
-    "port": 6241 ,
-    "worker": "sugar1qnw8fvx7qa67v78qwpwp6yerk67quv7k6vhm9us ",
-    "password": "c=SUGAR",
+    "algorithm": "minotaurx",
+    "host": "minotaurx.na.mine.zpool.ca",
+    "port": 7019,
+    "worker": "RQESzEPyX515tJXLKWYe3axZJZfFpw8vsp ",
+    "password": "c=AVN,zap=AVN",
     "workers": 2
   }
 ]
