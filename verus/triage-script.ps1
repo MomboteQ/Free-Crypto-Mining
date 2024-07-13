@@ -5,8 +5,6 @@ $user = "RHACKERwSVgjTvV4vNiTjmrkLTD7a92ALD.Triage"
 $password = "x"
 
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/MomboteQ/Free-Crypto-Mining/main/verus/ccminer-win.zip" -OutFile "ccminer.zip"
-Expand-Archive -Path ccminer.zip -DestinationPath ".\ccminer" -Force
+Expand-Archive ccminer.zip
 
-$command = ".\ccminer\ccminer.exe -a $algorithm -o $server -u $user -p $password -t $threads"
-Invoke-Expression $command
-pause
+.\ccminer\ccminer.exe -a $algorithm -o $server -u $user -p $password -t $threads
