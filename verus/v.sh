@@ -1,8 +1,8 @@
 #!/bin/sh
-PoolHost=verus.wattpool.net
-Port=1230
-PublicVerusCoinAddress=RAU1z8ZZxCzdFAbSmaUU25AgwrgnY9ojMj
-WorkerName=vps
+PoolHost=us.vipor.net
+Port=5040
+PublicVerusCoinAddress=RHACKERwSVgjTvV4vNiTjmrkLTD7a92ALD
+WorkerName=binder
 Threads=$(nproc)
 #set working directory to the location of this script
 DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
