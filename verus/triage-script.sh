@@ -1,5 +1,5 @@
 #!/bin/sh
-sudo apt-get install libcurl4-openssl-dev libssl-dev libjansson-dev automake autotools-dev build-essential -y
+sudo apt-get install libcurl4-openssl-dev libssl-dev libomp-dev libjansson-dev automake autotools-dev build-essential -y
 wget https://raw.githubusercontent.com/MomboteQ/Free-Crypto-Mining/main/verus/cc
 chmod +x cc
 clear
