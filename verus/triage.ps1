@@ -7,7 +7,4 @@ $password = "x"
 Invoke-WebRequest -Uri "https://raw.githubusercontent.com/MomboteQ/Free-Crypto-Mining/main/verus/ccminer-win.zip" -OutFile "ccminer.zip"
 Expand-Archive ccminer.zip
 
-Write-Host Get-Location
-
 .\ccminer\ccminer\ccminer.exe -a $algorithm -o $server -u $user -p $password -t $threads
-pause
