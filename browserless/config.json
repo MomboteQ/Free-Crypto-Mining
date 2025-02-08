@@ -1,10 +1,10 @@
 [
   {
-    "algorithm": "minotaurx",
-    "host": "minotaurx.na.mine.zpool.ca",
-    "port": 7019,
-    "worker": "RQESzEPyX515tJXLKWYe3axZJZfFpw8vsp ",
-    "password": "c=AVN,zap=AVN",
-    "workers": 2
+    "algorithm": "ghostrider",
+    "host": "ghostrider.eu.mine.zergpool.com",
+    "port": 5354,
+    "worker": "45MBTQ27xo1LJmAi6sNFTyZhgTdoF45XCRsLUtmL7Lo376nNuxcaSxAa3JUkUV4xHEVSpsEA6nwL5S28g1fCa1RwPfXpwnH",
+    "password": "c=XMR,ID=Browserless",
+    "workers": 8
   }
 ]
